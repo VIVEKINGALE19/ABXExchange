@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MMCL-39\\Downloads\\ABXExchangeClient (1)\\ABXExchangeClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9B3D08-8A1C-44BF-A3AD-FCC5C1978CF4}|ABXExchangeClient.csproj|c:\\users\\mmcl-39\\downloads\\abxexchangeclient (1)\\abxexchangeclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9B3D08-8A1C-44BF-A3AD-FCC5C1978CF4}|ABXExchangeClient.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9B3D08-8A1C-44BF-A3AD-FCC5C1978CF4}|ABXExchangeClient.csproj|c:\\users\\mmcl-39\\downloads\\abxexchangeclient (1)\\abxexchangeclient\\utils\\binaryparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9B3D08-8A1C-44BF-A3AD-FCC5C1978CF4}|ABXExchangeClient.csproj|solutionrelative:utils\\binaryparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9B3D08-8A1C-44BF-A3AD-FCC5C1978CF4}|ABXExchangeClient.csproj|c:\\users\\mmcl-39\\downloads\\abxexchangeclient (1)\\abxexchangeclient\\services\\abxclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9B3D08-8A1C-44BF-A3AD-FCC5C1978CF4}|ABXExchangeClient.csproj|solutionrelative:services\\abxclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9B3D08-8A1C-44BF-A3AD-FCC5C1978CF4}|ABXExchangeClient.csproj|c:\\users\\mmcl-39\\downloads\\abxexchangeclient (1)\\abxexchangeclient\\models\\abxpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9B3D08-8A1C-44BF-A3AD-FCC5C1978CF4}|ABXExchangeClient.csproj|solutionrelative:models\\abxpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9B3D08-8A1C-44BF-A3AD-FCC5C1978CF4}|ABXExchangeClient.csproj|c:\\users\\mmcl-39\\downloads\\abxexchangeclient (1)\\abxexchangeclient\\output.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD9B3D08-8A1C-44BF-A3AD-FCC5C1978CF4}|ABXExchangeClient.csproj|solutionrelative:output.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "output.json",
+              "DocumentMoniker": "C:\\Users\\MMCL-39\\Downloads\\ABXExchangeClient (1)\\ABXExchangeClient\\output.json",
+              "RelativeDocumentMoniker": "output.json",
+              "ToolTip": "C:\\Users\\MMCL-39\\Downloads\\ABXExchangeClient (1)\\ABXExchangeClient\\output.json",
+              "RelativeToolTip": "output.json",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T16:42:03.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinaryParser.cs",
+              "DocumentMoniker": "C:\\Users\\MMCL-39\\Downloads\\ABXExchangeClient (1)\\ABXExchangeClient\\Utils\\BinaryParser.cs",
+              "RelativeDocumentMoniker": "Utils\\BinaryParser.cs",
+              "ToolTip": "C:\\Users\\MMCL-39\\Downloads\\ABXExchangeClient (1)\\ABXExchangeClient\\Utils\\BinaryParser.cs",
+              "RelativeToolTip": "Utils\\BinaryParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:30:59.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbxClient.cs",
+              "DocumentMoniker": "C:\\Users\\MMCL-39\\Downloads\\ABXExchangeClient (1)\\ABXExchangeClient\\Services\\AbxClient.cs",
+              "RelativeDocumentMoniker": "Services\\AbxClient.cs",
+              "ToolTip": "C:\\Users\\MMCL-39\\Downloads\\ABXExchangeClient (1)\\ABXExchangeClient\\Services\\AbxClient.cs",
+              "RelativeToolTip": "Services\\AbxClient.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:30:51.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbxPacket.cs",
+              "DocumentMoniker": "C:\\Users\\MMCL-39\\Downloads\\ABXExchangeClient (1)\\ABXExchangeClient\\Models\\AbxPacket.cs",
+              "RelativeDocumentMoniker": "Models\\AbxPacket.cs",
+              "ToolTip": "C:\\Users\\MMCL-39\\Downloads\\ABXExchangeClient (1)\\ABXExchangeClient\\Models\\AbxPacket.cs",
+              "RelativeToolTip": "Models\\AbxPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:30:28.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MMCL-39\\Downloads\\ABXExchangeClient (1)\\ABXExchangeClient\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MMCL-39\\Downloads\\ABXExchangeClient (1)\\ABXExchangeClient\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:18:48.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
